@@ -1,0 +1,35 @@
+body{
+    background-image: url(login1.jpg);
+    background-position: 100%;
+}
+.navbar{
+    background-color:black;
+}
+.navbar ul{
+    overflow:auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin:10px 40px;
+}
+
+.navbar li a{
+    text-decoration: none;
+    padding: 3px 5px;
+    color: white;
+}
+.navbar li a:hover{
+      background-color: rgb(80, 49, 54);
+}
+.search{
+    color: white;
+    float:right;
+    padding: 12px 75px;
+    
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 2px 25px;
+}

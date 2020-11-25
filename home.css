@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.img{
+    float: left;
+}
+.img1{
+    padding: 25px 20px;
+    margin: 2px 2px;
+}
+.p{
+    color: white;
+    
+}

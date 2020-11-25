@@ -1,0 +1,48 @@
+body{
+   
+    background-image: url(login3.jpg);
+    background-size: cover;
+}
+.box{
+           margin: 70px 500px;
+           border-style: solid;
+           
+           background-color:#ccdab1;
+        }
+.login{
+   text-align: center;
+   border-bottom: solid;
+   padding: 15px;
+   margin: 0;
+  background-color:gray;
+}
+.form{
+    margin:30px;
+     background-color:#ccdab1;
+    
+}
+.bx{
+    background:white;
+}
+.l1{
+    padding-bottom: 10px;
+    font-size: x-large;
+    font-family: serif red;
+}
+.l2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: x-large;
+}
+.l3{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background:rgb(181, 198, 212);
+}
+.bx1{
+    background: white;
+}
